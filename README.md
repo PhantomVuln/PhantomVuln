@@ -1,1 +1,1 @@
-## Script kiddie
+# Script kiddie
